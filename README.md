@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rudram Raj Chakraborty</h1>
 <h3 align="center">A passionate frontend & backend developer (MERN) from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudram08&label=Profile%20views&color=0e75b6&style=flat" alt="rudram08" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rudram8@gmail.com**
+- 📫 How to reach me **rudramrajchakraborty8@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
