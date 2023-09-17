@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rudramrajchakraborty8@gmail.com**
+- 📫 How to reach me **rudram8@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
