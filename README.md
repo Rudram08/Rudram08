@@ -1,5 +1,5 @@
 ![image](https://github.com/Rudram08/Rudram08/assets/139102569/0213fc69-f455-4d90-94ca-09e73ff7e9d1)
-
+![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 
 <h1 align="center">Hi 👋, I'm Rudram Raj Chakraborty</h1>
 <h3 align="center">A passionate frontend & backend developer (MERN) from India</h3>
